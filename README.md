@@ -1,1 +1,1 @@
-My first readme by Dami
+My first readme
